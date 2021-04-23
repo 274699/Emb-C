@@ -6,7 +6,7 @@
 
 int main(void)
 {
-    void setup();
+     setup();
 
     while(1){
 
