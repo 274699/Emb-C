@@ -1,6 +1,7 @@
 # Embedded C Programming Examples with Continuous Integration and Code Quality
 
-## ACTIVITY 1
+# ACTIVITY 1
+- This is the code for promting and denoting about the status of car seat heater.
 
 ### In Action
 
