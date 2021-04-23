@@ -1,8 +1,8 @@
 # Embedded C Programming Examples with Continuous Integration and Code Quality
 
-# ACTIVITY 1
+## ACTIVITY 1
 
-## In Action
+### In Action
 
 |ON|PROMT|OFF|
 |:--:|:--:|:--:|
