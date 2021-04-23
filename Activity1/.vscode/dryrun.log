@@ -1,0 +1,9 @@
+make.exe -f F:\GitHub\MiniProject_Template\Example_Programs\programming_concpets\calculator_complex --dry-run --keep-going --print-directory
+make.exe: Entering directory `f:/mini_project/Github_activities/Emb-C'
+ 
+make.exe: F:\GitHub\MiniProject_Template\Example_Programs\programming_concpets\calculator_complex: Permission denied
+ 
+make.exe: Leaving directory `f:/mini_project/Github_activities/Emb-C'
+ 
+make.exe: *** No targets.  Stop.
+ 
