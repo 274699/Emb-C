@@ -6,8 +6,7 @@
 
 |ON|PROMT|OFF|
 |:--:|:--:|:--:|
-|![ON](simulation/ON.png)|![PROMT](simulation/PROMT.png)|
-![OFF](simulation/OFF.png)|
+|![ON](simulation/ON.png)|![PROMT](simulation/PROMT.png)|![OFF](simulation/OFF.png)|
 
 #### CI and Code Quality
 
