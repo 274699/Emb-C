@@ -1,3 +1,13 @@
+/**
+ * @file setup.c
+ * @author vishal_274699 (you@domain.com)
+ * @brief function defination for ports
+ * @version 0.1
+ * @date 2021-04-23
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 #include <avr/io.h>
 void setup(){
 DDRB|= (1<<PB0);// LED1 TURNS ON WHEN PASSANGER IS ON THE SEAT AND HEATER IS ON
