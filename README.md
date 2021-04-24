@@ -5,9 +5,9 @@
 
 ### In Action
 
-|ON|PROMT|OFF|
+|OFF|PROMT|ON|
 |:--:|:--:|:--:|
-|![ON](simulation/ON.png)|![PROMT](simulation/PROMT.png)|![OFF](simulation/OFF.png)|
+|![OFF](simulation/OFF.png)|![PROMT](simulation/PROMT.png)|![ON](simulation/ON.png)|
 
 #### CI and Code Quality
 
