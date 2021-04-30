@@ -8,7 +8,8 @@
 - This is the application for car seat heater where user can adjust the temperature value according to the need
 ## In Action
 ### Activity 1
-- Activity 1 progress
+-Activity 1 progress 
+
 |OFF|PROMT|ON|
 |:--:|:--:|:--:|
 |![OFF](simulation/OFF_activity1.png)|![PROMT](simulation/PROMT_activity1.png)|![ON](simulation/ON_activity1.png)|
