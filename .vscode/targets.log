@@ -10,7 +10,7 @@ make.exe all -f F:\GitHub\MiniProject_Template\Example_Programs\programming_conc
 make.exe: F:\GitHub\MiniProject_Template\Example_Programs\programming_concpets\calculator_complex: Permission denied
  
 
-# Make data base, printed on Fri Apr 30 13:03:15 2021
+# Make data base, printed on Fri Apr 30 21:45:22 2021
 
 # Variables
 
@@ -61,7 +61,7 @@ SystemDrive = C:
 # environment
 CommonProgramFiles(x86) = C:\Program Files (x86)\Common Files
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-7eea0ed6-a756-416c-910f-fc487805b89b-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-dbeccce4-837f-4dca-987c-b75a6b85f0fc-sock
 # environment
 VSCODE_CWD = C:\Users\Lenovo\AppData\Local\Programs\Microsoft VS Code
 # environment
@@ -87,7 +87,7 @@ ProgramW6432 = C:\Program Files
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_7324_NVBJQHROVNTIBFPR
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_14340_VRKCHYIAXMVYNEWR
 # environment
 VSCODE_PIPE_LOGGING = true
 # environment
@@ -149,7 +149,8 @@ PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
 # environment
 OS = Windows_NT
 # environment
-VSCODE_IPC_HOOK = \\.\pipe\0fef3a94d6096a0b1a9a5118139e1cab-1.55.2-main-sock
+VSCODE_IPC_HOOK = \\.\pipe\0fef3a 
+94d6096a0b1a9a5118139e1cab-1.55.2-main-sock
 # environment
 HOMEPATH = \Users\Lenovo
 # environment
@@ -171,8 +172,7 @@ SUFFIXES :=
 # environment
 APPDATA = C:\Users\Lenovo\AppData\Roaming
 # environment
-TEMP  
-= C:\Users\Lenovo\AppData\Local\Temp
+TEMP = C:\Users\Lenovo\AppData\Local\Temp
 # default
 MAKEFILES := 
 # automatic
@@ -190,7 +190,7 @@ MAKELEVEL := 0
 # environment
 PROCESSOR_LEVEL = 6
 # environment
-VSCODE_PID = 7324
+VSCODE_PID = 14340
 # environment
 USERDOMAIN_ROAMINGPROFILE = DESKTOP-VQG9EP0
 # variable set hash-table stats:
@@ -202,7 +202,7 @@ USERDOMAIN_ROAMINGPROFILE = DESKTOP-VQG9EP0
 
 # Directories
 
-# . (key f:/mini_project/Github_activities/Emb-C, mtime 1619765041): 13 files, no impossibilities.
+# . (key f:/mini_project/Github_activities/Emb-C, mtime 1619782815): 13 files, no impossibilities.
 # C:\WinAVR-20100110\bin (key C:/WinAVR-20100110/bin, mtime 1619076884): 75 files, no impossibilities.
 # C:\WinAVR-20100110\utils\bin (key C:/WinAVR-20100110/utils/bin, mtime 1619076906): 99 files, no impossibilities so far.
 
@@ -257,7 +257,7 @@ F:\GitHub\MiniProject_Template\Example_Programs\programming_concpets\calculator_
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4008 / max = 4008 / min = 4008 / avg = 4008
 
-# Finished Make data base on Fri Apr 30 13:03:15 2021
+# Finished Make data base on Fri Apr 30 21:45:22 2021
 
  
 make.exe: *** No rule to make target `all'.  Stop.
