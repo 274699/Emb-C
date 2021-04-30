@@ -1,10 +1,13 @@
-PROJ_NAME = Activity1
+PROJ_NAME = CarSeatHeater
 
 BUILD_DIR = Build
 
 # All Source code files
 SRC = main.c\
-src/setup.c\
+src/activity1.c\
+src/activity2.c\
+src/activity3.c\
+src/activity4.c\
 src/fuse.c
 
 # All header file paths
