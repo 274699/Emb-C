@@ -13,28 +13,28 @@
 |OFF|PROMT|ON|
 |:--:|:--:|:--:|
 |![OFF](simulation/OFF_activity1.png)|![PROMT](simulation/PROMT_activity1.png)|![ON](simulation/ON_activity1.png)|
-
+  **_Led and switches added_**
 ### Activity 2
    **_Activity 2 progress_**
 
 |2a|2b|
 |:--:|:--:|
 |![2a](simulation/activity2a.png)|![2b](simulation/activity2b.png)|
-
+  **_ADC done_**
 ### Activity 3
    **_Activity 3 progress_**
 
 |3a|3b|
 |:--:|:--:|
 |![3a](simulation/activity3a.png)|![3b](simulation/activity3b.png)|
-
+  **_PWM generation done_**
 ### Activity 4
    **_Activity 4 progress_**
 
 |4a|4b|
 |:--:|:--:|
 |![4a](simulation/activity4a.png)|![4b](simulation/activity4b.png)|
-
+  **_UART communication done_**
 
 
 
